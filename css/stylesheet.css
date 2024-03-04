@@ -1,0 +1,28 @@
+body{
+    background-color:wheat;
+}
+
+#headerSection{
+    text-align: center;
+    padding: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 14%;
+}
+
+#loginBtn{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+}
